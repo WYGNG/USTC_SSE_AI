@@ -1,0 +1,2 @@
+model_checkpoint_path: "ocr.model-1000"
+all_model_checkpoint_paths: "ocr.model-1000"

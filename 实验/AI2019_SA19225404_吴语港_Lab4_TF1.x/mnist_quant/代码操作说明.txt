@@ -1,0 +1,3 @@
+按顺序依次运行
+
+normal_train.py -> quant_aware_train.py -> freeze.py -> convert_to_lite.py 

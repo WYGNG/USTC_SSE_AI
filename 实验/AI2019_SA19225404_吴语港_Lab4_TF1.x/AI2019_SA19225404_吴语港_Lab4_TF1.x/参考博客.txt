@@ -1,0 +1,4 @@
+https://blog.csdn.net/lishanlu136/article/details/88872266
+https://youyou-tech.com/2019/09/25/深度学习模型优化三大核心技术，剪枝，量化/
+https://www.tensorflowers.cn/t/7136
+https://www.jianshu.com/p/e73851f32c9f

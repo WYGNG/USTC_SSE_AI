@@ -1,0 +1,15 @@
+CNNmodel 是没有dropout的
+CNNmodel1 是有dropout的
+
+先运行train.py，训练精度达到100%停止（我已经给出参数来了)，参数1保存在\restore。
+用参数1去运行train with 量化.py ，获得带量化的训练好的参数2
+去除dropout(真量化的模型已经是没有dropout)
+用参数2运行真量化，在models里获得pb文件和lite 
+
+用win+R ，输入CMD，复制黏贴
+tensorboard --logdir=C:\Users\27875\Desktop\1\真量化\logs --host=127.0.0.1
+去浏览器输入http://127.0.0.1:6006/ 可查看图
+（C:\Users\27875\Desktop\1\假量化\logs是你的路径）
+
+
+
