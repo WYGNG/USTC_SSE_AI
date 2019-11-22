@@ -1,0 +1,25 @@
+{
+    "fill.crash": {
+        "category": "record",
+        "sounds": [
+            {
+                "stream": "false",
+                "name": "fill/crash",
+                "pitch": 1,
+                "volume": 1
+            }
+        ]
+    },
+	"block.note.basedrum": {
+        "category": "record",
+		"replace": "true",
+        "sounds": [
+            {
+                "stream": "false",
+                "name": "note/bd",
+                "pitch": 2,
+                "volume": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+将mnist-original.mat文件放到datasets/mldata下即可运行下面的代码
+from sklearn.datasets import fetch_mldata
+mnist = fetch_mldata('MNIST original', transpose_data=True, data_home='datasets')
+mnist
