@@ -45,7 +45,7 @@ xgboost==0.82
 # you need a GPU card with CUDA Compute Capability 3.0 or higher support, and
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
-tensorflow==1.13.1
+tensorflow==1.15.4
 #tensorflow-gpu==1.13.1
 
 
