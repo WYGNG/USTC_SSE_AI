@@ -59,7 +59,7 @@ tensorflow==1.15.4
 
 ##### Image manipulation
 imageio==2.5.0
-Pillow==5.4.1
+Pillow==9.0.0
 scikit-image==0.14.2
 
 
